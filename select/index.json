@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "きゅんかわ人生",
+  "base_artist": "≠ME",
+  "createdAt": "2025-12-14T01:41:32.198018Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "きゅんかわ人生",
+      "artist": "≠ME",
+      "has_synced": false,
+      "path": "select/pl_01_きゅんかわ人生_≠ME.txt"
+    }
+  ]
+}
